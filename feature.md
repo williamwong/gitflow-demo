@@ -1,1 +1,3 @@
-Awesome feature added
+Awesome feature added.
+
+Also another feature is added.
